@@ -7,6 +7,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -30,6 +31,10 @@ Users should be able to:
 
 ![Desktop design](./Screenshot_1.png)
 ![Mobile design](./Screenshot_2.png)
+
+### Links
+
+- Github pages: [https://regnocranium.github.io/testimonials/](https://regnocranium.github.io/testimonials/)
 
 ## My process
 
